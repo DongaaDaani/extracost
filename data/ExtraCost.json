@@ -1,0 +1,24 @@
+[
+    {
+        "rendelesszam":"515050",
+        "extraCostCategory":"1",
+        "amount":80,
+        "attachment":"",
+        "extraCostStatus": "1"
+    },
+    {
+        "rendelesszam":"515050",
+        "extraCostCategory":"2",
+        "amount":370,
+        "attachment":"",
+        "extraCostStatus": "2"
+    },
+    {
+        "rendelesszam":"515050",
+        "extraCostCategory":"3",
+        "amount":750,
+        "attachment":"",
+        "extraCostStatus": "3"
+    }
+
+]
