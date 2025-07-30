@@ -1,40 +1,40 @@
 [
-    {
-      hasDefaultInit: true,
-      _id: 'rowId_1',
-      attachmentId: '84d169bc-1af2-4f84-b328-b81ef550a350',
-      foreignerKey: '',
-      attachment_tempObjectId: 'e148023d-9e95-4975-a35a-d893170a80a7',
-      __attachment: '',
-      ytenantId: 's7gl24w7',
-      _tableDisplayOutlineAll: false,
-      extraCostCategory: {
-        value: '2',
-        text: 'Loading',
-      },
-      amount: 200,
-      extraCostStatus: {
-        value: '1',
-        text: 'Bejelentve',
-      },
+  {
+    "hasDefaultInit": true,
+    "_id": "rowId_1",
+    "attachmentId": "84d169bc-1af2-4f84-b328-b81ef550a350",
+    "foreignerKey": "",
+    "attachment_tempObjectId": "e148023d-9e95-4975-a35a-d893170a80a7",
+    "__attachment": "",
+    "ytenantId": "s7gl24w7",
+    "_tableDisplayOutlineAll": false,
+    "extraCostCategory": {
+      "value": "2",
+      "text": "Loading"
     },
-    {
-      hasDefaultInit: true,
-      _id: 'rowId_2',
-      attachmentId: '383fc274-645e-4c6a-aa3c-d534ac7a94a2',
-      attachment_tempObjectId: '156a1490-5646-4502-9708-e855ef3c153a',
-      __attachment: '',
-      ytenantId: 's7gl24w7',
-      foreignerKey: '',
-      _tableDisplayOutlineAll: false,
-      amount: 300,
-      extraCostCategory: {
-        value: '1',
-        text: 'Unloading',
-      },
-      extraCostStatus: {
-        value: '1',
-        text: 'Bejelentve',
-      },
+    "amount": 200,
+    "extraCostStatus": {
+      "value": "1",
+      "text": "Bejelentve"
+    }
+  },
+  {
+    "hasDefaultInit": true,
+    "_id": "rowId_2",
+    "attachmentId": "383fc274-645e-4c6a-aa3c-d534ac7a94a2",
+    "attachment_tempObjectId": "156a1490-5646-4502-9708-e855ef3c153a",
+    "__attachment": "",
+    "ytenantId": "s7gl24w7",
+    "foreignerKey": "",
+    "_tableDisplayOutlineAll": false,
+    "amount": 300,
+    "extraCostCategory": {
+      "value": "1",
+      "text": "Unloading"
     },
-  ]
+    "extraCostStatus": {
+      "value": "1",
+      "text": "Bejelentve"
+    }
+  }
+]
